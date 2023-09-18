@@ -1,9 +1,13 @@
+import Navigator from '../components/Navigator'
+
 export default function Init(){
     return (
 
         <div> 
-            <h1> fundamentos </h1>
-            <h2>vamos estudar</h2>
+            <Navigator text = "style" destiny = "/style"/>
+            <Navigator text = "example" destiny = "/example"/>
+            <Navigator text = "jsx" destiny = "/jsx"/>
+
         
         </div>
     )

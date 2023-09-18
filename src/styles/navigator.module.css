@@ -1,5 +1,9 @@
 .navigator{
-    background-color: #bbb;
-    padding: 20px;
-    
+    background-color: #541e9b;
+    padding: 30px;
+    color: black;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 10px;
+
 }

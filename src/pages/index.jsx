@@ -1,4 +1,4 @@
-export default function init(){
+export default function Init(){
     return (
 
         <div> 

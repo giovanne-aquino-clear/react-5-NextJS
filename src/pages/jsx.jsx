@@ -1,9 +1,9 @@
-export default  function jsx(){
+export default  function Jsx(){
 
     return(
 <div>
     <h1>jsx concepts</h1>
-        { Math.random() }
+    
 </div>
     )
 }

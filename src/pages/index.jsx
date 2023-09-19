@@ -14,8 +14,9 @@ export default function Init(){
             <Navigator text = "style" destiny = "/style"/>
             <Navigator text = "example" destiny = "/example"/>
             <Navigator text = "jsx" destiny = "/jsx"/>
+            <Navigator text = "Navegação" destiny = "/client/123"/>
+            <Navigator text = "stateful component" destiny = "/client/123"/>
 
-        
         </div>
     )
 }

@@ -15,3 +15,4 @@ export default  function Jsx(){
 </div>
     )
 }
+// usa caracteristicas JavaScript dentro da div atraves do uso de {} envolvendo o codigo js

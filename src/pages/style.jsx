@@ -12,3 +12,5 @@ export default function Style(){
         </Layout>
     )
 }
+
+// usa css module atraves de "style.roxo", onde .roxo identifica a classe de estilo do arquivo "style.module.css"

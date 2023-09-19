@@ -11,3 +11,4 @@ export default function ClienteProCodigo(){
     )
     
 }
+// useRouter permite recuperar o valor passado para referencia ["codigo"].jsx, assim se cria um valor de leitura com o nome "codigo"

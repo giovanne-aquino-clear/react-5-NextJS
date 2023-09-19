@@ -33,3 +33,5 @@ export default function Integration(){
     </Layout>
     )    
 }
+
+// usa conceitos de API pegando dados utilizando a função getCostumer e os conceitos ja utilizados em api/clientes/[codigo].jsx
